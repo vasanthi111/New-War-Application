@@ -13,7 +13,7 @@ pipeline {
         
         stage('Build the Code') {
             steps {
-               sh 'mvn deploy'
+               sh 'mvn install'
             }
         }
         
