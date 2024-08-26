@@ -7,5 +7,8 @@
 <h1 style="font-weight: bold; color: red; font-size: 30px; text-align: center;">
     Welcome to DevOps Deployment using Jenkins
 </h1>
+<h1 style="font-weight: bold; color: blue; font-size: 30px; text-align: center;">
+    We have done Deployment using Jenkins FreeStyle Job
+</h1>
 </body>
 </html>
