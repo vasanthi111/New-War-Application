@@ -15,7 +15,7 @@
 <h1 style="font-weight: bold; color: light green; font-size: 30px; text-align: center;">
     u v v s n s vasanthi unguturi
 <h1 style="font-weight: bold; color: orange; font-size: 30px; text-align: center;">
-    sathya unguturi
+    satyavathi unguturi
 
 
 </h1
